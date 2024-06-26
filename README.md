@@ -1,2 +1,2 @@
 # aiml-dibimbing
-This is a repo of my assignments and project that submitted from my bootcamp AI-Machine Learning in dibimbing.id batch 3.
+This is a repository, submission of my assignments and projects that submitted from my course "AI-Machine Learning" in dibimbing.id.
